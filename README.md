@@ -1,4 +1,6 @@
 # Magnetometer-Calibration
+
+Repozitorij datoteka korištenih za izradu Projekta. 
 U nastavku slijedi popis i opis datoteka koje se nalaze u repozitoriju "Magnetometer Calibration":
 
 Collect_Raw_Data.ino - prikupljanje podataka potrebnih za postupak kalibracije
