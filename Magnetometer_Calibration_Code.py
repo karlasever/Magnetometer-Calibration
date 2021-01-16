@@ -1,3 +1,6 @@
+#The following code is courtesy of The Poor Engineer website 
+#and can be found at https://thepoorengineer.com/en/calibrating-the-magnetometer/
+
 #!/usr/bin/env python
 # coding: utf-8
 
